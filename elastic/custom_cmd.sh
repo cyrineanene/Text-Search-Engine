@@ -19,7 +19,7 @@ done
 # Execute the Python script
 info "************************************ Executing create_index_elastic  ************************************"
 
-python3 /usr/share/elasticsearch/scripts/create_index.py
+python3 /usr/share/elasticsearch/scripts/ES.py
 
 info "************************************ create_index_elastic executed successfully ************************************"
 
